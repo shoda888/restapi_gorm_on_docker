@@ -1,0 +1,12 @@
+mysql_data
+pkg
+sqls
+src
+
+*.pyc
+*.DS_Store
+*.dat
+*.caffemodel
+*.crt
+*.pem.key
+*.pem
